@@ -1,0 +1,8 @@
+# comment1
+endpoint: string
+debug: bool
+log.file: string
+; comment2
+some_number: number
+port: number
+# comment3

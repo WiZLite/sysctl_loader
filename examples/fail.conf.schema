@@ -1,0 +1,3 @@
+port: number
+debug: bool
+log.file: number
